@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921955592170",
+    "project_id": "psicoagenda-c1061",
+    "storage_bucket": "psicoagenda-c1061.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921955592170:android:ee5f61bcfcea3e4e147493",
+        "android_client_info": {
+          "package_name": "com.example.psicoagenda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIoSzfYIeRWRhMyX8GTvemNRBXIN7uVGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
